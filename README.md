@@ -6,6 +6,7 @@
 
 * <p></p> Paragraph Tag
 - Used to add Paragraphs in HTML
+- ALT+Z to wrap the words
 
 * <a href="Link"> Anchor Tag
 - Used to add links to your page
