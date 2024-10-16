@@ -17,3 +17,12 @@
 - Used to add images to your page
 - src -> add image address
 - alt -> add alternative name incase image dosn't load on the website/page
+
+* </br> Break Tag
+- Used to break the lines
+
+* Lists Tag
+<ul></ul>Unordered tag 
+- order of the items doesn't matter
+<ol></ol>Ordered tag 
+- order of the items does matter
