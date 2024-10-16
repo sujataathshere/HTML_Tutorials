@@ -10,3 +10,10 @@
 
 * <a href="Link"> Anchor Tag
 - Used to add links to your page
+- Absolute link -> Refered other links
+- Relative link -> Refered our pages
+
+* <img src="/image.png" alt="Random Image"> Image Tag
+- Used to add images to your page
+- src -> add image address
+- alt -> add alternative name incase image dosn't load on the website/page
