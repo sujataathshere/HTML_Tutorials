@@ -47,3 +47,8 @@ Superscript
 <header>
 <main>
 <footer>
+
+* <main> Tag
+<section> - For a section on your page
+<article> - For an article on your page
+<aside> - For content aside main content(ads)
