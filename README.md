@@ -26,3 +26,14 @@
 - order of the items doesn't matter
 <ol></ol>Ordered tag 
 - order of the items does matter
+
+* <hr> Hr Tag
+- Used to display a horizontal ruler
+- Used to separate content
+
+* Subscript & Superscript Tag
+- Used to 
+Subscript
+- H<sub>2</sub>O
+Superscript
+- A<sup>n</sup>B
