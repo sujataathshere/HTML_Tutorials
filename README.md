@@ -37,3 +37,6 @@ Subscript
 - H<sub>2</sub>O
 Superscript
 - A<sup>n</sup>B
+
+* <pre>...</pre>Pre Tag
+- Used to display text as it is without ignoring spaces & next line.
