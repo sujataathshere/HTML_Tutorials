@@ -40,3 +40,10 @@ Superscript
 
 * <pre>...</pre>Pre Tag
 - Used to display text as it is without ignoring spaces & next line.
+
+* Semantic Tags
+- Using this tags geting help for improving ranking
+- Using this tags for layout
+<header>
+<main>
+<footer>
