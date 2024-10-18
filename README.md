@@ -57,7 +57,7 @@
 
 ## Block Elements
 - It takes whole width space
-`<address>`
+- `<address>`
 `<article>`
 `<aside>`
 `<blockquote>`
@@ -89,7 +89,7 @@
 
 ## Inline Elements
 - It takes space as per need only
-`<a> <abbr> <acronym> <b> <bdo> <big> <br> <button> <cite> <code> <dfn> <em> <i> <img> <input> <kbd> <label> <map> <object> <tt> <var> <output> <q> <samp> <script> <select> <small> <span> <strong> <sub> <sup> <textarea> <time>`
+- `<a> <abbr> <acronym> <b> <bdo> <big> <br> <button> <cite> <code> <dfn> <em> <i> <img> <input> <kbd> <label> <map> <object> <tt> <var> <output> <q> <samp> <script> <select> <small> <span> <strong> <sub> <sup> <textarea> <time>`
 
 ## Lists Tag
 1. Unordered tag `<ul></ul>` 
@@ -112,5 +112,12 @@
 6. Colspan Attribute `<th colspan="2">`
 - To merge the column
 
-## Form `<form>...</form>`
+## Form Tag `<form>...</form>`
 - Forms are used to collect data from the user
+
+## Label Tag `<label>...</label>`
+- Used to labeled to the input element
+- It helps for screen reader users
+
+1. Name Attribute `<inpute type="radio" name="class">`
+- If we keep same name then our text bcome clickable through label 
