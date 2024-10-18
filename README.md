@@ -89,40 +89,7 @@
 
 ## Inline Elements
 - It takes space as per need only
-`<a>
-<abbr>
-<acronym>
-<b>
-<bdo>
-<big>
-<br>
-<button>
-<cite>
-<code>
-<dfn>
-<em>
-<i>
-<img>
-<input>
-<kbd>
-<label>
-<map>
-<object>
-<tt>
-<var>
-<output>
-<q>
-<samp>
-<script>
-<select>
-<small>
-<span>
-<strong>
-<sub>
-<sup>
-<textarea>
-<time>
-`
+`<a> <abbr> <acronym> <b> <bdo> <big> <br> <button> <cite> <code> <dfn> <em> <i> <img> <input> <kbd> <label> <map> <object> <tt> <var> <output> <q> <samp> <script> <select> <small> <span> <strong> <sub> <sup> <textarea> <time>`
 
 ## Lists Tag
 1. Unordered tag `<ul></ul>` 
