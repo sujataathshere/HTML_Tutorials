@@ -129,3 +129,17 @@
 - order of the items doesn't matter
 2. Ordered tag `<ol></ol>`
 - order of the items does matter
+
+## Table
+- Tables are used to represent real life table data.
+`<tr>` - Used to display table row
+`<td>` - Used to display table data
+`<th>` - Used to display table header
+`<thead>` - To wrap table head
+`<tbody>` - To wrap table body 
+
+### Colspan Attribute 
+- To merge the column
+
+### Form `<form>...</form>`
+- Forms are used to collect data from the user
