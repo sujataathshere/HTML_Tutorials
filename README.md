@@ -99,14 +99,18 @@
 
 ## Table
 - Tables are used to represent real life table data.
-`<tr>` - Used to display table row
-`<td>` - Used to display table data
-`<th>` - Used to display table header
-`<thead>` - To wrap table head
-`<tbody>` - To wrap table body 
-
-### Colspan Attribute 
+1. Table Row `<tr>` 
+- Used to display table row
+2. Table Data `<td>` 
+- Used to display table data
+3. Table Head `<th>` 
+- Used to display table header
+4. Table Head `<thead>` 
+- To wrap table head
+5. Table Body `<tbody>` 
+- To wrap table body 
+6. Colspan Attribute `<th colspan="2">`
 - To merge the column
 
-### Form `<form>...</form>`
+## Form `<form>...</form>`
 - Forms are used to collect data from the user
