@@ -119,5 +119,15 @@
 - Used to labeled to the input element
 - It helps for screen reader users
 
-1. Name Attribute `<inpute type="radio" name="class">`
+1. Input Type Attribute
+- To enter the value
+- text, password, radio, check box, etc.
+
+2. Name Attribute `<inpute type="radio" name="class">`
 - If we keep same name then our text bcome clickable through label 
+
+3. Value Attribute
+- To pass the data at backend side
+
+4. Id Attribute
+5. Class Atrribute
