@@ -115,6 +115,13 @@
 ## Form Tag `<form>...</form>`
 - Forms are used to collect data from the user
 
+## Input Types / Form Element 
+1. Text `<input type="text">`
+2. Radio `<input type="radio">`
+3. Checkbox `<input type="checkbox">`
+4. Submit `<input type="submit">`
+5. Button `<input type="button">`
+
 ## Label Tag `<label>...</label>`
 - Used to labeled to the input element
 - It helps for screen reader users
@@ -134,3 +141,6 @@
 
 ## Select Tag `<select><option>...</option></select>`
 - 
+
+## Iframe Tag `<iframe src="">...</iframe>`
+- Used to show the video
