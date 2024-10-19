@@ -140,7 +140,10 @@
 5. Class Atrribute
 
 ## Select Tag `<select><option>...</option></select>`
-- 
+- Used to show the list in a drop down manner
 
 ## Iframe Tag `<iframe src="">...</iframe>`
 - Used to show the video
+
+## Video Tag `<video src"myVid.mp4"> My Video </video>`
+- 
