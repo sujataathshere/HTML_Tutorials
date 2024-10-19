@@ -10,6 +10,7 @@
         <h2>Form Tag</h2>
     </header>
     <main>
+        <h4>Registration Form</h4>
         <form action="/action.php">
             Name : <input type="text" placeholder="username"></br>
             Password : <input type="password" placeholder="password">
@@ -65,7 +66,17 @@
                 <input type="radio" value="sanskrit" name="subject" id="105">Sanskrit
             </label>
             </br></br>
-            <textarea name="feedback" id="101" placeholder="Please give your valuable feedback here" rows="5" cols="30">Feedback</textarea>
+            <b>Select your City</b>
+            <select name="city">
+                <option>Select</option>
+                <option value="Banglore">Banglore</option>
+                <option value="Chennai">Chennai</option>
+                <option value="Delhi">Delhi</option>
+                <option value="Mumbai">Mumbai</option>
+                <option value="Pune">Pune</option>
+            </select>
+            </br></br>
+            <textarea name="feedback" id="101" placeholder="Please give your valuable feedback here" rows="5" cols="30"></textarea>
         </form>
     </main>
     <footer></footer>
