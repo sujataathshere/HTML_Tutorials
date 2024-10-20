@@ -1,5 +1,9 @@
 # HTML_Tutorials
 
+## HTML 
+- Hypertext Markup Language
+- Structure/layout
+
 ## Heading Tag `<h1> To <h6>`
 - Headings used for importance.
 - Avoid for size purpose, It will affect the website ranking.
@@ -17,6 +21,7 @@
 - Used to add images to your page
 - src -> add image address
 - alt -> add alternative name incase image dosn't load on the website/page
+- The alt attribute is used for displaying a text in place of an image whenever the image can not be loaded due to any technical issue
 
 ## Break Tag `</br>`
 - Used to break the lines
@@ -97,14 +102,16 @@
 2. Ordered tag `<ol></ol>`
 - order of the items does matter
 
-## Table
+## Table `<table>...</table>`
 - Tables are used to represent real life table data.
 1. Table Row `<tr>` 
 - Used to display table row
 2. Table Data `<td>` 
 - Used to display table data
+- It defines a cell in a table
 3. Table Head `<th>` 
 - Used to display table header
+- It defines a header cell in a table
 4. Table Head `<thead>` 
 - To wrap table head
 5. Table Body `<tbody>` 
