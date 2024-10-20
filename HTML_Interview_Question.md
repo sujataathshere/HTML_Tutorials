@@ -26,7 +26,7 @@
 5. Author Infor
 - This meta tag can be used to specify the author of the document.
 
-### What is the difference between <div> & <span> element?
+### What is the difference between `<div>` & `<span>` element?
 1. `<div>` Element
 - It is a block-level element
 - The `<div>`(division) element HTML is a container that is used to group & structure the content on a webpage.
@@ -122,30 +122,30 @@
 ### What is Responsive Design ?
 - Responsive Design is a practice of creating web pages that adapt & display well on various devices & screen sizes.
 
-# What is HTML ?
+### What is HTML ?
 - It is the standard text formatting language used for creating & displaying pages on the internet
 
-2. What are HTML tags ?
+### What are HTML tags ?
 - HTML tags are used for placing the elements in the proper & appropriate format.
 - The HTML tags need not be closed always
 - Eg. `<html>, <img>, <head>, <table>, etc.`
 
-3. What are HTML Attributes ?
+### What are HTML Attributes ?
 - Attributes are the properties that can be added to an HTML tag that change the way the tag behaves or is displayed
 - Attributes are added right after the name of the HTML tag, inside the brackets
 - Eg. src, alt, height, weidth, etc. `<img src="">`
 
-4. What is a Marquee in HTML ?
+### What is a Marquee in HTML ?
 - For scrolling the text on the webpage, marquee is used
 - It scrolls the images or text up, down, left, or right automatically
 - Eg. `<marquee>`
 
-5. How do you separate a section of texts in HTML ?
+### How do you separate a section of texts in HTML ?
 - `<br>` Tag -> It is used tto separate the line of text. It breaks the current line & shifts the flow of the text to a new line.
 - `<p>` Tag -> It is used to write a paragraph of text.
 - `<blockquote>` Tag -> It is used to define large quoted sections.
 
-6. Define the list types in HTML ?
+### Define the list types in HTML ?
 1. Ordered List
 - It uses `<ol>` tag & each element of the list is written between `<li></li>` tags
 - It displays elements in numbers, alphabets & roman format.
@@ -155,13 +155,11 @@
 3. Definition list
 - It uses `<dl>, <dt>, <dd>` tags & displays elements in definition form like in a dictionary
 
-7. How do you display a table in an HTML webpage?
+### How do you display a table in an HTML webpage?
 - The HTML `<table>` tag is used to display data in a tabular format
 - It is also used to manage the layout of the page, eg. header section, navigation bar, body content, footer section.
 - `<table>, <tr>, <th>, <td>, <tbody>, <thead>, <tfooter>, etc.`
 
-8. Why do we use a style sheet in HTML ?
+### Why do we use a style sheet in HTML ?
 - A style sheet helps in creating a well-defined template for an HTML webpage that is both consistent as wll as portable
 - A single style sheet template can be linked to various web pages, which makes it easier to maintain & change the look of the website
-
-9. 
